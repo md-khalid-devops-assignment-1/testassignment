@@ -1,10 +1,12 @@
-BITS DevOps Assignemnt 
+**BITS DevOps Assignemnt **
 
-Assignment 1 Details
+**Assignment 1 Details**
 The objective of this assignment is to have hands on experience of Git Workflow. You are required to create or fork a repo on Git and use Git bash on the desktop for completing the tasks. You are required to create one manager role for the repository and others as collaborators. The manager will act as a reviewer and decision maker.
-Contributors
+
+**Contributors**
 Md Khalid 2020mt93560@wilp.bits-pilani.ac.in
-Checklist of the tasks that are required to be performed:
+
+**Checklist of the tasks that are required to be performed:**
 Add team members as collaborators and assign them appropriate rights (if you are performing individual then create one dummy account for the task)
 Create a branch(development/production/feature)
 Edit files or create new files followed by commit
