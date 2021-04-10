@@ -1,5 +1,1 @@
-conflict created by gitbash
-ABC
 conflict created by demo UI
-
-CONFLICT RESOLVED
